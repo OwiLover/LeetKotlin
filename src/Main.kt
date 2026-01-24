@@ -1,5 +1,5 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    print(ReverseInteger().reverse(-163847412))
+    print(StringToIntegerAtoi().myAtoi("       2222222222221234cqw"))
 }
